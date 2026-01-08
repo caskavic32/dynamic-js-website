@@ -292,7 +292,7 @@ function loadAbout() {
         <p><strong>Phone:</strong> <a href="tel:+252617886066" style="text-decoration:none; color:#259;" >+252 617886066</a></p>
         <p><strong>Email:</strong> <a href="mailto:caskavic66.com" style="text-decoration:none; color:#259;">caskavic66@gmail.com</a></p>
         <p>
-          <a href="https://cosobwebsite.vercel.app/" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">Caskavic32 gitHub</a>
+          <a href="" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">Caskavic32 gitHub</a>
           &nbsp;|&nbsp;
           <a href="https://github.com/settings/copilot/features" target="_blank" rel="noopener" style="text-decoration:none; color:#259;">Visit My GitHub</a>
         </p>
